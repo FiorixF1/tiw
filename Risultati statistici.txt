@@ -1,0 +1,148 @@
+Algoritmo uno
+
+Probabilità  100
+Numero di immagini con almeno M annotazioni              95      95.0 %
+Numero di immagini con esattamente M annotazioni         11      11.58 %
+Numero massimo di annotazioni extra                      41
+Numero medio di annotazioni extra (solo immagini con più di M annotazioni)      10.476190476190476
+Numero medio di annotazioni extra (tutte le immagini con almeno M annotazioni   9.263157894736842
+
+Probabilità  85
+Numero di immagini con almeno M annotazioni              68      68.0 %
+Numero di immagini con esattamente M annotazioni         8       11.76 %
+Numero massimo di annotazioni extra                      30
+Numero medio di annotazioni extra (solo immagini con più di M annotazioni)      7.983333333333333
+Numero medio di annotazioni extra (tutte le immagini con almeno M annotazioni   7.044117647058823
+
+Probabilità  50
+Numero di immagini con almeno M annotazioni              8       8.0 %
+Numero di immagini con esattamente M annotazioni         1       12.5 %
+Numero massimo di annotazioni extra                      22
+Numero medio di annotazioni extra (solo immagini con più di M annotazioni)      11.0
+Numero medio di annotazioni extra (tutte le immagini con almeno M annotazioni   9.625
+
+
+
+Algoritmo due
+
+Probabilità  100
+Numero di immagini con almeno M annotazioni              100     100.0 %
+Numero di immagini con esattamente M annotazioni         36      36 %
+Numero massimo di annotazioni extra                      11
+Numero medio di annotazioni extra (solo immagini con più di M annotazioni)      1.8125
+Numero medio di annotazioni extra (tutte le immagini con almeno M annotazioni   1.16
+
+Probabilità  85
+Numero di immagini con almeno M annotazioni              100     100.0 %
+Numero di immagini con esattamente M annotazioni         28      28 %
+Numero massimo di annotazioni extra                      27
+Numero medio di annotazioni extra (solo immagini con più di M annotazioni)      2.7083333333333335
+Numero medio di annotazioni extra (tutte le immagini con almeno M annotazioni   1.95
+
+Probabilità  50
+Numero di immagini con almeno M annotazioni              100     100.0 %
+Numero di immagini con esattamente M annotazioni         37      37 %
+Numero massimo di annotazioni extra                      33
+Numero medio di annotazioni extra (solo immagini con più di M annotazioni)      2.4285714285714284
+Numero medio di annotazioni extra (tutte le immagini con almeno M annotazioni   1.53
+
+
+
+Algoritmo tre con database
+
+Probabilità  85
+Numero di immagini con almeno M annotazioni              100     100.0 %
+Numero di immagini con esattamente M annotazioni         100     100.0 %
+Numero massimo di annotazioni extra                      0
+Numero medio di annotazioni extra (solo immagini con più di M annotazioni)      0.0
+Numero medio di annotazioni extra (tutte le immagini con almeno M annotazioni   0.0
+
+-----------------------------------------------------------------------------------------
+
+I DATI PRECEDENTI TENEVANO IN CONSIDERAZIONE CHE LE IMMAGINI FOSSERO TUTTE SUBITO DISPONIBILI
+QUESTI NUOVI DATI SI BASANO SU UN ARRIVO GRADUALE DELLE IMMAGINI
+E infatti viene fuori una schifezza
+
+Algoritmo uno
+
+Probabilità  100
+Numero di immagini con almeno M annotazioni              94      94.0 %
+Numero di immagini con esattamente M annotazioni         2       2.13 %
+Numero massimo di annotazioni extra                      99
+Numero medio di annotazioni extra (solo immagini con più di M annotazioni)      43.58695652173913
+Numero medio di annotazioni extra (tutte le immagini con almeno M annotazioni   42.659574468085104
+
+Probabilità  85
+Numero di immagini con almeno M annotazioni              87      87.0 %
+Numero di immagini con esattamente M annotazioni         0       0.0 %
+Numero massimo di annotazioni extra                      87
+Numero medio di annotazioni extra (solo immagini con più di M annotazioni)      34.35632183908046
+Numero medio di annotazioni extra (tutte le immagini con almeno M annotazioni   34.35632183908046
+
+Probabilità  50
+Numero di immagini con almeno M annotazioni              53      53.0 %
+Numero di immagini con esattamente M annotazioni         1       1.89 %
+Numero massimo di annotazioni extra                      42
+Numero medio di annotazioni extra (solo immagini con più di M annotazioni)      16.98076923076923
+Numero medio di annotazioni extra (tutte le immagini con almeno M annotazioni   16.660377358490567
+
+
+
+Algoritmo due
+
+Probabilità  100
+Numero di immagini con almeno M annotazioni              100     100.0 %
+Numero di immagini con esattamente M annotazioni         0       0 %
+Numero massimo di annotazioni extra                      99
+Numero medio di annotazioni extra (solo immagini con più di M annotazioni)      37.02
+Numero medio di annotazioni extra (tutte le immagini con almeno M annotazioni   37.02
+
+Probabilità  85
+Numero di immagini con almeno M annotazioni              100     100.0 %
+Numero di immagini con esattamente M annotazioni         2       2.0 %
+Numero massimo di annotazioni extra                      87
+Numero medio di annotazioni extra (solo immagini con più di M annotazioni)      25.93877551020408
+Numero medio di annotazioni extra (tutte le immagini con almeno M annotazioni   25.42
+
+Probabilità  50
+Numero di immagini con almeno M annotazioni              100     100.0 %
+Numero di immagini con esattamente M annotazioni         11      11 %
+Numero massimo di annotazioni extra                      49
+Numero medio di annotazioni extra (solo immagini con più di M annotazioni)      6.808988764044944
+Numero medio di annotazioni extra (tutte le immagini con almeno M annotazioni   6.06
+
+
+
+Algoritmo tre con thread secondario
+
+Probabilità  100
+Numero di immagini con almeno M annotazioni              100     100.0 %
+Numero di immagini con esattamente M annotazioni         0       0.0 %
+Numero massimo di annotazioni extra                      2
+Numero medio di annotazioni extra (solo immagini con più di M annotazioni)      1.95
+Numero medio di annotazioni extra (tutte le immagini con almeno M annotazioni   1.95
+
+Probabilità  85
+Numero di immagini con almeno M annotazioni              100     100.0 %
+Numero di immagini con esattamente M annotazioni         10      10.0 %
+Numero massimo di annotazioni extra                      2
+Numero medio di annotazioni extra (solo immagini con più di M annotazioni)      1.3333333333333333
+Numero medio di annotazioni extra (tutte le immagini con almeno M annotazioni   1.2
+
+Probabilità  50
+Numero di immagini con almeno M annotazioni              100     100.0 %
+Numero di immagini con esattamente M annotazioni         61      61.0 %
+Numero massimo di annotazioni extra                      2
+Numero medio di annotazioni extra (solo immagini con più di M annotazioni)      1.0769230769230769
+Numero medio di annotazioni extra (tutte le immagini con almeno M annotazioni   0.42
+
+
+
+Algoritmo tre con database
+
+Probabilità  50, 85, 100
+Numero di immagini con almeno M annotazioni              100     100.0 %
+Numero di immagini con esattamente M annotazioni         100     100.0 %
+Numero massimo di annotazioni extra                      0
+Numero medio di annotazioni extra (solo immagini con più di M annotazioni)      0.0
+Numero medio di annotazioni extra (tutte le immagini con almeno M annotazioni   0.0
